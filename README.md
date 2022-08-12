@@ -17,4 +17,5 @@ Establish an identity by verifiably linking your online accounts. No central ser
 ~vern is a non-commercial shared GNU/Linux system. All our servers run [fully free GNU/Linux distributions](https://vern.cc/faq#distro). We are also aiming to become a member of the [Tildeverse](https://tildeverse.org) after we meet the requirements.
  - **[Shamir Secret Sharing Scheme](https://iancoleman.io/shamir/)**
  Split your secret into parts which can be combined back into the original secret using some or all of the parts.
-
+ - **[PrivateBin](https://privatebin.info/)**
+ PrivateBin is a minimalist, open source online where the server has zero knowledge of pasted data. Data is encrypted and decrypted in the browser using 256bit AES in [Galois Counter mode](https://en.wikipedia.org/wiki/Galois/Counter_Mode).
