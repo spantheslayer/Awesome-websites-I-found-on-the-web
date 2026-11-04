@@ -11,6 +11,8 @@
  we're a loose association of like-minded _tilde_ communities. if you're interested in learning about *nix (linux, unix, bsd, etc) come check out our [member tildes](https://tildeverse.org/members/) and sign up! tildes are pubnixes in the spirit of [tilde.club](http://tilde.club).  
  
 ## Useful Pages
+- **[Bucketlist.nl Netherlands checklist (Dutch)](https://bucketlist.nl/bucketlist-nederland/checklist)**
+A free Dutch-language experience checklist with search, browser-local selections and printing; external activity bookings may be paid.
 - **[Keyoxide](https://keyoxide.org/)**
 Establish an identity by verifiably linking your online accounts. No central server or database. Control how your data is stored and accessed.
 - **[~vern](https://vern.cc/)**
